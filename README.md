@@ -12,4 +12,4 @@ A basic briefing:
 - ⚡ Fun fact: Scio Latine
 
 Here is my social ranking score, I always see people have a good ranking with meh stats so hope I don't get a B.
-[!github stats](https://github-readme-stats.vercel.app/api?username=Ckrielle)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Ckrielle)](https://github.com/anuraghazra/github-readme-stats)
