@@ -13,6 +13,7 @@ Some things about me:
 - ⚡ Fun fact: Scio Latine
 
 Here are my stats, I always see people have a good ranking with meh stats so hope I don't get sth like a B.
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=Ckrielle&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *EDIT: Hey, that's pretty good (I think😅)
