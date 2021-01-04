@@ -11,7 +11,8 @@ A basic briefing:
 - 💬 Ask me about manga and why everyone should use linux
 - ⚡ Fun fact: Scio Latine
 
-Here is my stats, I always see people have a good ranking with meh stats so hope I don't get a B.
+Here is my stats, I always see people have a good ranking with meh stats so hope I don't get sth like a B.
 [![github stats](https://github-readme-stats.vercel.app/api?username=Ckrielle)](https://github.com/anuraghazra/github-readme-stats)
 
-*EDIT: Hey, that's pretty good (I think)
+*EDIT: Hey, that's pretty good (I think😅)
+*EDIT OF EDIT: No it doesn't, it just means I'm not dead last😩. Not for long though😤
