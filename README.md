@@ -6,7 +6,7 @@ My name is Ckrielle/Machina/Korai and this is my Github Profile. This is where I
 Some things about me:
 
 - 💙 I love: Ethical Hacking (Crypto, RE), Linux (I use Arch btw), Python
-- 🔭 I’m currently working on: [Fanimator](https://github.com/Ckrielle/Faminator), and uni exams
+- 🔭 I’m currently working on: [Fanimator](https://github.com/Ckrielle/Faminator), and preparing for hashcode😤
 - 🌱 I’m currently learning: about life. And I got an arduino so there's that
 - 👯 I’m looking to collaborate on: python projects and CTF teams
 - 💬 Ask me about: manga, why everyone should use linux, and why Aurelian was the best roman emperor
