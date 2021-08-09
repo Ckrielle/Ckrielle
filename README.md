@@ -12,8 +12,9 @@ Some things about me:
 - 💬 Ask me about: manga, why everyone should use linux, and why Aurelian was the best roman emperor
 - ⚡ Fun fact: Scio Latine
 
-Here are my stats, I always see people have a good ranking with meh stats so hope I don't get sth like a B.
+Here are different badges that are cool, but shouldn't steal the fun that can be had from engaging with computers and knowledge! 😊
 
+![HTB Badge](http://www.hackthebox.eu/badge/image/131103)<br>
 [![github stats](https://github-readme-stats.vercel.app/api?username=Ckrielle&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *EDIT: Hey, that's pretty good (I think😅)
